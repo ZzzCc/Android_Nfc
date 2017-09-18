@@ -71,8 +71,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         Log.i("Nfc", data);
-        String text = strArray[0][3] + strArray[0][2] +strArray[0][1] +strArray[0][0];
-        mTextView.setText(text);
+        mTextView.setText(data);
     }
 
     @Override
