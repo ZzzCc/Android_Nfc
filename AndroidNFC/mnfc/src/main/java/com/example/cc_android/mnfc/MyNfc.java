@@ -122,7 +122,7 @@ public class MyNfc {
         return isSupport;
     }
 
-    //将指定byte数组以16进制的形式打印到控制台
+    //将指定byte数组以转换为String类型数组返回
     public String[] printHexString(int n, byte[] b) {
 //        for(int i = 0; i < b.length; i++){
 //            Log.i("Nfc", b[i] + "");
