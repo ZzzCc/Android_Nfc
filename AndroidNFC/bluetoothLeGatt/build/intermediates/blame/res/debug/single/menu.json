@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

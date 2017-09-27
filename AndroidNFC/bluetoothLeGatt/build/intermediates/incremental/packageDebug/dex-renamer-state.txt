@@ -1,0 +1,7 @@
+#Tue Sep 26 20:43:16 CST 2017
+base.0=D\:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f375e39989df8be65a151545d4a0508a00699e3c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2cd41b9681d93acc7d12e2ce0350ff69347b056\\classes.dex
+base.1=D\:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a2cd41b9681d93acc7d12e2ce0350ff69347b056
+file.0=D\:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f375e39989df8be65a151545d4a0508a00699e3c\\classes.dex

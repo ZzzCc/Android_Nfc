@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBluetoothLBE</string>
+    <string name="unknown_device">未知设备</string>
+</resources>

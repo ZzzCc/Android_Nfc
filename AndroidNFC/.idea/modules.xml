@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidNFC.iml" filepath="$PROJECT_DIR$/AndroidNFC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothLeGatt/bluetoothLeGatt.iml" filepath="$PROJECT_DIR$/bluetoothLeGatt/bluetoothLeGatt.iml" />
       <module fileurl="file://$PROJECT_DIR$/mnfc/mnfc.iml" filepath="$PROJECT_DIR$/mnfc/mnfc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybluetoothlbe/mybluetoothlbe.iml" filepath="$PROJECT_DIR$/mybluetoothlbe/mybluetoothlbe.iml" />
     </modules>
   </component>
 </project>

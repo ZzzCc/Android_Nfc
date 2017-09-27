@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mNFC</string>
+    <string name="btn_name">跳转</string>
 </resources>

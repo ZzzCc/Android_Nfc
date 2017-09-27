@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bluetoothLeGatt" />
             <option value="$PROJECT_DIR$/mnfc" />
+            <option value="$PROJECT_DIR$/mybluetoothlbe" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
