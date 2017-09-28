@@ -122,18 +122,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     protected void actionAlertDialog(){
-//        final ArrayList<Person> list = initData();
         AlertDialog.Builder builder;
-        //        Context context = this.getApplicationContext();
         LayoutInflater inflater = (LayoutInflater) this.getSystemService(LAYOUT_INFLATER_SERVICE);
         View layout = inflater.inflate(R.layout.device_listview, (ViewGroup)findViewById(R.id.lv_alert));
         ListView myListView = (ListView) layout.findViewById(R.id.lv_alert);
-//        MyAdapter adapter = new MyAdapter(this, list);
+        mLeDeviceListAdapter.clear();
         myListView.setAdapter(mLeDeviceListAdapter);
         myListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                //Toast.makeText(MainActivity.this, "设备是：" + mLeDeviceListAdapter.getDevice(i).getName(), Toast.LENGTH_SHORT).show();
                 final BluetoothDevice device = mLeDeviceListAdapter.getDevice(i);
                 if (device == null) return;
                 if (mScanning) {
@@ -213,6 +210,14 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onDisconnect(BluetoothGatt gatt) {
             Log.i(TAG, "连接已断开！！！");
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    Toast.makeText(MainActivity.this, "连接已断开请重新连接！", Toast.LENGTH_SHORT).show();
+                    actionAlertDialog();
+                    scanLeDevice(true);
+                }
+            });
         }
     };
 
