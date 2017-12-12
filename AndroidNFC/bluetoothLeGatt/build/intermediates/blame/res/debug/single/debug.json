@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\SwirebevUser\\zhangcc2\\Documents\\Android_Nfc\\AndroidNFC\\bluetoothLeGatt\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,2 +1,2 @@
-include ':mnfc', ':mybluetoothlbe'
+include ':mnfc', ':mybluetoothlbe', ':timetest'
 include ':bluetoothLeGatt'

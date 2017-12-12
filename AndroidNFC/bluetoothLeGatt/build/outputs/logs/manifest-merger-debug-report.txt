@@ -1,6 +1,12 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:1-46:12
 	package
 		ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:18:11-45
 		INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml
@@ -9,14 +15,18 @@ ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLe
 		ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:20:11-36
 		INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml
 		INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:11-69
 	android:versionCode
 		ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:19:11-34
 		INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml
 		INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:17:11-69
 uses-sdk
 ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:21:5-22:46
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:21:5-22:46
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:21:5-22:46
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:21:5-22:46
+INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:21:5-22:46
 	android:targetSdkVersion
 		ADDED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml:22:15-44
 		INJECTED from D:\SwirebevUser\zhangcc2\Documents\Android_Nfc\AndroidNFC\bluetoothLeGatt\src\main\AndroidManifest.xml

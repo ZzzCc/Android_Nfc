@@ -38,6 +38,7 @@ limitations under the License.
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
+        android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="蓝牙低功耗"
         android:theme="@android:style/Theme.Holo.Light" >
